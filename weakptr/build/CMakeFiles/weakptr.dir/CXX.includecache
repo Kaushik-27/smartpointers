@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kaushik/development/smartpointers/uniqueptr/main.cpp
+uniqueptr.h
+/home/kaushik/development/smartpointers/uniqueptr/uniqueptr.h
+uniqueptr.cpp
+/home/kaushik/development/smartpointers/uniqueptr/uniqueptr.cpp
+string.h
+-
+stdio.h
+-
+
+/home/kaushik/development/smartpointers/uniqueptr/uniqueptr.cpp
+uniqueptr.h
+/home/kaushik/development/smartpointers/uniqueptr/uniqueptr.h
+malloc.h
+-
+cstring
+-
+bits/stdc++.h
+-
+
+/home/kaushik/development/smartpointers/uniqueptr/uniqueptr.h
+
